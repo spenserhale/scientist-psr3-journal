@@ -4,8 +4,8 @@
     "keywords": ["scientist", "testing", "experiment", "test"],
     "type": "library",
     "require": {
-        "daylerees/scientist": "^1.0",
-        "psr/log": "1.0.*"
+        "daylerees/scientist": "^2.1.0",
+        "psr/log": "~1.0"
     },
     "require-dev": {
         "phpunit/phpunit": ">=4.8"
@@ -13,8 +13,8 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Nikko Bautista",
-            "email": "nikko@nikkobautista.com"
+            "name": "Spenser Hale",
+            "email": "spenserhaledeveloper@outlook.com"
         }
     ],
     "autoload": {
