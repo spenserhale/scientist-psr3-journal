@@ -1,5 +1,5 @@
 {
-    "name": "nx/scientist-psr3-journal",
+    "name": "spenserhale/scientist-psr3-journal",
     "description": "PSR3 Journal for Scientist",
     "keywords": ["scientist", "testing", "experiment", "test"],
     "type": "library",
