@@ -4,7 +4,8 @@
     "keywords": ["scientist", "testing", "experiment", "test"],
     "type": "library",
     "require": {
-        "daylerees/scientist": "^2.1.0",
+        "php": ">=7.2.0",
+        "daylerees/scientist": ">=2.1.0",
         "psr/log": "~1.0"
     },
     "require-dev": {
@@ -19,8 +20,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Scientist\\": "src/Scientist",
-            "NX\\": "src/NX"
+            "Scientist\\": "src/Scientist"
         }
     }
 }
